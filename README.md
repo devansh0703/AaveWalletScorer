@@ -4,9 +4,18 @@
 
 This is a machine learning-powered credit scoring system that analyzes Aave V2 transaction patterns to assign wallet creditworthiness scores from 0-1000. The system processes DeFi transaction data to evaluate wallet creditworthiness using advanced feature engineering and machine learning techniques, with higher scores indicating reliable and responsible usage.
 
-## User Preferences
+## Screenshots
 
-Preferred communication style: Simple, everyday language.
+![aave1.png](screenshots/aave1.png)
+
+![aave2.png](screenshots/aave2.png)
+
+![aave3.png](screenshots/aave3.png)
+
+![aave4.png](screenshots/aave4.png)
+
+![aave5.png](screenshots/aave5.png)
+
 
 ## System Architecture
 
